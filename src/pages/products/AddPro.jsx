@@ -93,7 +93,7 @@ const AddPro = () => {
                     </div>
 
                     {/* button */}
-                    <button type="submit" className=' w-full bg-indigo-600 text-white p-2 rounded-lg hover:bg-indigo-700 transition duration-300'>Add Product</button>
+                    <button type="submit" className=' cursor-pointer w-full bg-indigo-600 text-white p-2 rounded-lg hover:bg-indigo-700 transition duration-300'>Add Product</button>
                 </form>
             </div>
         )
